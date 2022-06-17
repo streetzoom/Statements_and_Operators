@@ -1,9 +1,7 @@
 # Statements_and_Operators
-  Write a program that asks the user to enter the following:
-	An integer representing the number of cents
-
+Write a program that asks the user to enter the following:
+An integer representing the number of cents
 You may assume that the number of cents entered is greater than or equal to zero
-
 The program should then display how to provide that change to the user.
 
 In the US:
