@@ -2,11 +2,12 @@
   Write a program that asks the user to enter the following:
 	An integer representing the number of cents
 
-	You may assume that the number of cents entered is greater than or equal to zero
+You may assume that the number of cents entered is greater than or equal to zero
 
-	The program should then display how to provide that change to the user.
+The program should then display how to provide that change to the user.
 
-	In the US:
+In the US:
+
 		1 dollar is 100 cents
 		1 quarter is 25 cents
 		1 dime is 10 cents
@@ -15,6 +16,7 @@
 
 	
 Here is a sample run:
+
 	Enter an amount in cents :  92
 
 	You can provide this change as follows:
