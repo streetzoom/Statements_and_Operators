@@ -13,8 +13,8 @@
 		1 nickel is 5 cents, and
 		1 penny is 1 cent.
 
-	Here is a sample run:
-
+	
+Here is a sample run:
 	Enter an amount in cents :  92
 
 	You can provide this change as follows:
